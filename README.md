@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rui 
 - 👀 I’m interested in bioinformatic and data science
 - 🌱 I’m currently PhD candidate in city university of Hong Kong
+- 💰 make money 💰
 - 📫 How to reach me rcao29-c@my.cityu.edu.hk
 
 <!---
