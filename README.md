@@ -2,6 +2,7 @@
 - 👀 I’m interested in bioinformatic and data science
 - 🌱 I’m currently PhD candidate in city university of Hong Kong
 - 💰 make money 💰
+- 🚬 master of Woolgathering （热爱薅羊毛）
 - 📫 How to reach me rcao29-c@my.cityu.edu.hk
 
 <!---
