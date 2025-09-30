@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Rui 
 - 👀 I’m interested in bioinformatic and data science
-- 🌱 I’m currently PhD candidate in city university of Hong Kong
-- 💰 make money 💰
-- 🚬 master of Woolgathering （热爱薅羊毛）
-- 📫 How to reach me rcao29-c@my.cityu.edu.hk
+- 🌱 I’m currently Postdoc in Centre for Regenerative Medicine and Health, Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences
+- 📫 How to reach me rui.cao@crmh-cas.org.hk
 
 <!---
 caorui12/caorui12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
