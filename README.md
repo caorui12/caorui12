@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rui 
-- 👀 I’m interested in bioinformatic and data science
+- 👀 I’m interested in bioinformatic and deep learning
 - 🌱 I’m currently Postdoc in Centre for Regenerative Medicine and Health, Hong Kong Institute of Science & Innovation, Chinese Academy of Sciences
 - 📫 How to reach me rui.cao@crmh-cas.org.hk
 
